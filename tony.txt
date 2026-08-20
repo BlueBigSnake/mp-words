@@ -12,3 +12,10 @@ Tamonkun.Ima.Docchi => 现在的是哪一个多闻！？
 粉红巴比伦.Babylon.Pink.1979.BluRay.1080p.x265.10bit.DDP5.1.MNHD-FRDS/Babylon.Pink. => 粉红巴比伦
 #错误
 Error. => 错误
+#犯罪心理：演变 强制并入犯罪心理(2005) Season 19
+Criminal Minds Evolution => 犯罪心理 {[tmdbid=4057;type=tv;s=19]}
+犯罪心理：演变 => 犯罪心理 {[tmdbid=4057;type=tv;s=19]}
+#龙之家族 强制并入权力的游戏前传：龙族(2022)
+House of the Dragon => 权力的游戏前传：龙族 {[tmdbid=94997;type=tv]}
+House.of.the.Dragon => 权力的游戏前传：龙族 {[tmdbid=94997;type=tv]}
+龙之家族 第[一二三四五六七八九十]+季 => 权力的游戏前传：龙族 {[tmdbid=94997;type=tv]}
