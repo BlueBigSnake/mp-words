@@ -19,3 +19,5 @@ Criminal Minds Evolution => 犯罪心理 {[tmdbid=4057;type=tv;s=19]}
 House of the Dragon => 权力的游戏前传：龙族 {[tmdbid=94997;type=tv]}
 House.of.the.Dragon => 权力的游戏前传：龙族 {[tmdbid=94997;type=tv]}
 龙之家族 第[一二三四五六七八九十]+季 => 权力的游戏前传：龙族 {[tmdbid=94997;type=tv]}
+#航海王 One Piece S23 全球集数(1156-1181) 强制绑定动画 TMDB 37854，防无年份标题误匹配真人版 ONE PIECE(2023, 111110)
+One[ .*-]Piece[ .*-]S23E(115[6-9]|11[6-9][0-9]) => One.Piece{[tmdbid=37854;type=tv]} S23E\1
