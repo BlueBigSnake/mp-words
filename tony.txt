@@ -25,3 +25,5 @@ One[ .*-]Piece[ .*-]S23E(115[6-9]|11[6-9][0-9]) => One.Piece{[tmdbid=37854;type=
 Ted.Lasso.S04(?=.*2025) => Ted.Lasso{[tmdbid=97546;type=tv;s=4]}
 #冬至 (2004) [H265]冬至NN.mkv 补充季集信息(旧文件名无法解析集数)
 \[H265\]冬至(\d{2}) => [H265]冬至 S01E\1 {[tmdbid=99723;type=tv;s=1]}
+#狂怒追缉统一主剧 TMDB 287238
+(?:狂怒追缉 第一季|Furious) => 狂怒追缉 {[tmdbid=287238;type=tv]}
